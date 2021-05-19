@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/mettle-works/static/css/main.efb022d8.chunk.css",
-    "main.js": "/mettle-works/static/js/main.953c8e9a.chunk.js",
-    "main.js.map": "/mettle-works/static/js/main.953c8e9a.chunk.js.map",
+    "main.js": "/mettle-works/static/js/main.2c7d3e26.chunk.js",
+    "main.js.map": "/mettle-works/static/js/main.2c7d3e26.chunk.js.map",
     "runtime-main.js": "/mettle-works/static/js/runtime-main.379c95d2.js",
     "runtime-main.js.map": "/mettle-works/static/js/runtime-main.379c95d2.js.map",
-    "static/js/2.b488f678.chunk.js": "/mettle-works/static/js/2.b488f678.chunk.js",
-    "static/js/2.b488f678.chunk.js.map": "/mettle-works/static/js/2.b488f678.chunk.js.map",
+    "static/js/2.9413de40.chunk.js": "/mettle-works/static/js/2.9413de40.chunk.js",
+    "static/js/2.9413de40.chunk.js.map": "/mettle-works/static/js/2.9413de40.chunk.js.map",
     "static/js/3.5272dbea.chunk.js": "/mettle-works/static/js/3.5272dbea.chunk.js",
     "static/js/3.5272dbea.chunk.js.map": "/mettle-works/static/js/3.5272dbea.chunk.js.map",
     "index.html": "/mettle-works/index.html",
     "static/css/main.efb022d8.chunk.css.map": "/mettle-works/static/css/main.efb022d8.chunk.css.map",
-    "static/js/2.b488f678.chunk.js.LICENSE.txt": "/mettle-works/static/js/2.b488f678.chunk.js.LICENSE.txt"
+    "static/js/2.9413de40.chunk.js.LICENSE.txt": "/mettle-works/static/js/2.9413de40.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.379c95d2.js",
-    "static/js/2.b488f678.chunk.js",
+    "static/js/2.9413de40.chunk.js",
     "static/css/main.efb022d8.chunk.css",
-    "static/js/main.953c8e9a.chunk.js"
+    "static/js/main.2c7d3e26.chunk.js"
   ]
 }
