@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/mettle-works/static/css/main.90822940.chunk.css",
-    "main.js": "/mettle-works/static/js/main.35d8741e.chunk.js",
-    "main.js.map": "/mettle-works/static/js/main.35d8741e.chunk.js.map",
-    "runtime-main.js": "/mettle-works/static/js/runtime-main.86d56286.js",
-    "runtime-main.js.map": "/mettle-works/static/js/runtime-main.86d56286.js.map",
-    "static/js/2.aab96502.chunk.js": "/mettle-works/static/js/2.aab96502.chunk.js",
-    "static/js/2.aab96502.chunk.js.map": "/mettle-works/static/js/2.aab96502.chunk.js.map",
-    "static/js/3.96627e51.chunk.js": "/mettle-works/static/js/3.96627e51.chunk.js",
-    "static/js/3.96627e51.chunk.js.map": "/mettle-works/static/js/3.96627e51.chunk.js.map",
+    "main.css": "/mettle-works/static/css/main.7dd47efd.chunk.css",
+    "main.js": "/mettle-works/static/js/main.4084a3ab.chunk.js",
+    "main.js.map": "/mettle-works/static/js/main.4084a3ab.chunk.js.map",
+    "runtime-main.js": "/mettle-works/static/js/runtime-main.379c95d2.js",
+    "runtime-main.js.map": "/mettle-works/static/js/runtime-main.379c95d2.js.map",
+    "static/css/2.2c49c831.chunk.css": "/mettle-works/static/css/2.2c49c831.chunk.css",
+    "static/js/2.1361e89b.chunk.js": "/mettle-works/static/js/2.1361e89b.chunk.js",
+    "static/js/2.1361e89b.chunk.js.map": "/mettle-works/static/js/2.1361e89b.chunk.js.map",
+    "static/js/3.5272dbea.chunk.js": "/mettle-works/static/js/3.5272dbea.chunk.js",
+    "static/js/3.5272dbea.chunk.js.map": "/mettle-works/static/js/3.5272dbea.chunk.js.map",
     "index.html": "/mettle-works/index.html",
-    "static/css/main.90822940.chunk.css.map": "/mettle-works/static/css/main.90822940.chunk.css.map",
-    "static/js/2.aab96502.chunk.js.LICENSE.txt": "/mettle-works/static/js/2.aab96502.chunk.js.LICENSE.txt"
+    "static/css/2.2c49c831.chunk.css.map": "/mettle-works/static/css/2.2c49c831.chunk.css.map",
+    "static/css/main.7dd47efd.chunk.css.map": "/mettle-works/static/css/main.7dd47efd.chunk.css.map",
+    "static/js/2.1361e89b.chunk.js.LICENSE.txt": "/mettle-works/static/js/2.1361e89b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.86d56286.js",
-    "static/js/2.aab96502.chunk.js",
-    "static/css/main.90822940.chunk.css",
-    "static/js/main.35d8741e.chunk.js"
+    "static/js/runtime-main.379c95d2.js",
+    "static/css/2.2c49c831.chunk.css",
+    "static/js/2.1361e89b.chunk.js",
+    "static/css/main.7dd47efd.chunk.css",
+    "static/js/main.4084a3ab.chunk.js"
   ]
 }
