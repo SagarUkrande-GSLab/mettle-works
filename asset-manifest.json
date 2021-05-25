@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/mettle-works/static/css/main.9f8f8051.chunk.css",
-    "main.js": "/mettle-works/static/js/main.1eb8ee5f.chunk.js",
-    "main.js.map": "/mettle-works/static/js/main.1eb8ee5f.chunk.js.map",
+    "main.css": "/mettle-works/static/css/main.ab3b2f7c.chunk.css",
+    "main.js": "/mettle-works/static/js/main.810211ff.chunk.js",
+    "main.js.map": "/mettle-works/static/js/main.810211ff.chunk.js.map",
     "runtime-main.js": "/mettle-works/static/js/runtime-main.86d56286.js",
     "runtime-main.js.map": "/mettle-works/static/js/runtime-main.86d56286.js.map",
     "static/js/2.625a5a7d.chunk.js": "/mettle-works/static/js/2.625a5a7d.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.96627e51.chunk.js": "/mettle-works/static/js/3.96627e51.chunk.js",
     "static/js/3.96627e51.chunk.js.map": "/mettle-works/static/js/3.96627e51.chunk.js.map",
     "index.html": "/mettle-works/index.html",
-    "static/css/main.9f8f8051.chunk.css.map": "/mettle-works/static/css/main.9f8f8051.chunk.css.map",
+    "static/css/main.ab3b2f7c.chunk.css.map": "/mettle-works/static/css/main.ab3b2f7c.chunk.css.map",
     "static/js/2.625a5a7d.chunk.js.LICENSE.txt": "/mettle-works/static/js/2.625a5a7d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.86d56286.js",
     "static/js/2.625a5a7d.chunk.js",
-    "static/css/main.9f8f8051.chunk.css",
-    "static/js/main.1eb8ee5f.chunk.js"
+    "static/css/main.ab3b2f7c.chunk.css",
+    "static/js/main.810211ff.chunk.js"
   ]
 }
